@@ -1,4 +1,25 @@
 header img{
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 5px;
     width: auto;
     height: 512px;
+    
 }
+header {
+    text-align: center;
+    padding: 10px;
+    font-size: x-large;
+  }
+  body{
+    word-wrap: break-word;
+
+  }
+  main img{
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 300px;
+    width: auto;
+    height: 267px;
+  }
+  body{
+    font-family: Pacifico, cursive;
+  }
