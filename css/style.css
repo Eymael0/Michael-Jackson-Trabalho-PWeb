@@ -42,6 +42,3 @@ header {
     margin-right: auto; 
     margin-top: 2%;
   }
-  header img:hover{
-    transform: rotateY('angle');
-  }
